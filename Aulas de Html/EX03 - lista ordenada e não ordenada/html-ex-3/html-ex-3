@@ -1,0 +1,74 @@
+<html>
+
+<head><title>Tabela</title></head>
+
+<budy>
+
+    <table border="1">
+        <tr>
+            <td colspan="3">Filme</td>
+        </tr>
+        <tr>
+            <td colspan="1">titulo</td>
+            <td colspan="1">categoria</td>
+         </tr>   
+        <tr>
+            <td>1-shrek</td>
+            <td>animação</td>
+        </tr>
+        <tr>
+            <td>2-carros</td>
+            <td>animação</td>
+        </tr>
+        <tr>
+            <td>3-turbo</td>
+            <td>animação</td>
+        </tr>
+        <tr>
+            <td>4-Gente Grande</td>
+            <td>comédia</td>
+        </tr>
+        <tr>
+            <td>5-Coraline</td>
+            <td>stop motion</td>
+        </tr>
+        <tr>
+            <td>6-Norbit</td>
+            <td>comédia</td>
+        </tr>
+        <tr>
+            <td>7-Vovó zona</td>
+            <td>comédia</td>
+        </tr>
+        <tr>
+            <td>8-Shaun Carneiro</td>
+            <td>stop motion</td>
+        </tr>
+        <tr>
+            <td>9-Os farofeiros</td>
+            <td>comédia</td>
+        </tr>
+        <tr>
+            <td>10-O pequenino</td>
+            <td>comédia</td>
+        </tr>
+        <tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+        <table border="1">
+            <tr>
+                <td colspan="3">Controle de quantidade</td>
+            </tr>
+            <tr>
+                <td>animação</td>
+                <td>stop motion</td>
+                <td>comédia</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>2</td>
+                <td>5</td>
+            </tr>
+    </table>
+
+<budy>
+
+<html>

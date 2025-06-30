@@ -1,74 +1,31 @@
 <html>
-
-<head><title>Tabela</title></head>
-
+<head><title>tabela</title></head>
 <budy>
+    <table border="25">
+        <tr> <td colspan="3">CINEMA</td> </tr>
 
-    <table border="1">
-        <tr>
-            <td colspan="3">Filme</td>
+
+        <tr> <td colspan="2">TITULOS</td> <td colspan="1">CATEGORIAS</td> </tr> </tr>
+
+        <tr> <td colspan="2">1-Carros</td> <td colspan="1">Animaçao</td> </tr>
+        <tr> <td colspan="2">2-Turbo</td> <td colspan="1">Animaçao</td> </tr>
+        <tr> <td colspan="2">3-Shrek</td> <td colspan="1">Animaçao</td> </tr>
+        <tr> <td colspan="2">4-Gente Grande</td> <td colspan="1">Comedia</td> </tr>
+        <tr> <td colspan="2">5-Vovo Zona</td> <td colspan="1">Comedia</td> </tr>
+        <tr> <td colspan="2">6-Farofeiros</td> <td colspan="1">Comedia</td> </tr>
+        <tr> <td colspan="2">7-John Wick</td> <td colspan="1">Açao</td> </tr>
+        <tr> <td colspan="2">8-Rambo</td> <td colspan="1">Acao</td> </tr>
+        <tr> <td colspan="2">9-Tropa de elite</td> <td colspan="1">Acao</td> </tr>
+        <tr> <td colspan="2">10-Extraction </td> <td colspan="1">Acao</td> </tr>
+
+
+
+        <tr> <td colspan="3">CONTROLE DE QUANTIDADE</td> </tr>
+        <tr> <td colspan="1">AÇÃO</td> <td colspan="1">COMÉDIA</td> <td colspan="1">ANIMAÇÃO</td> </tr>
+        <tr> <td colspan="1">4</td> <td colspan="1">3</td> <td colspan="1">3</td> </tr>
+
+            
         </tr>
-        <tr>
-            <td colspan="1">titulo</td>
-            <td colspan="1">categoria</td>
-         </tr>   
-        <tr>
-            <td>1-shrek</td>
-            <td>animação</td>
-        </tr>
-        <tr>
-            <td>2-carros</td>
-            <td>animação</td>
-        </tr>
-        <tr>
-            <td>3-turbo</td>
-            <td>animação</td>
-        </tr>
-        <tr>
-            <td>4-Gente Grande</td>
-            <td>comédia</td>
-        </tr>
-        <tr>
-            <td>5-Coraline</td>
-            <td>stop motion</td>
-        </tr>
-        <tr>
-            <td>6-Norbit</td>
-            <td>comédia</td>
-        </tr>
-        <tr>
-            <td>7-Vovó zona</td>
-            <td>comédia</td>
-        </tr>
-        <tr>
-            <td>8-Shaun Carneiro</td>
-            <td>stop motion</td>
-        </tr>
-        <tr>
-            <td>9-Os farofeiros</td>
-            <td>comédia</td>
-        </tr>
-        <tr>
-            <td>10-O pequenino</td>
-            <td>comédia</td>
-        </tr>
-        <tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
-        <table border="1">
-            <tr>
-                <td colspan="3">Controle de quantidade</td>
-            </tr>
-            <tr>
-                <td>animação</td>
-                <td>stop motion</td>
-                <td>comédia</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>2</td>
-                <td>5</td>
-            </tr>
     </table>
-
-<budy>
-
-<html>
+</budy>
+</html>
